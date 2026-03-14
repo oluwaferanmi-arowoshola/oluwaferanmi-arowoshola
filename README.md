@@ -2,7 +2,9 @@
 
 Embedded Systems & Firmware Engineer  
 
-STM32 • Zephyr RTOS • Embedded Linux • FPGA • Verilog  
+STM32 • Zephyr RTOS • Embedded Linux • FPGA • SystemVerilog
+
+Real-Time Systems | Computer Architecture | Hardware/Software Co-Design
 
 M.S. Electrical & Computer Engineering (Expected 2026)
 
