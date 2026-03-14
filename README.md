@@ -1,16 +1,66 @@
-## Hi there 👋
+# Oluwaferanmi Arowoshola
 
-<!--
-**oluwaferanmi-arowoshola/oluwaferanmi-arowoshola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & Firmware Engineer  
 
-Here are some ideas to get you started:
+STM32 • Zephyr RTOS • Embedded Linux • FPGA • Verilog  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M.S. Electrical & Computer Engineering (Expected 2026)
+
+---
+
+## About Me
+
+Graduate student in Electrical and Computer Engineering with experience designing embedded firmware, FPGA systems, and real-time embedded platforms.
+
+My interests include:
+
+- Embedded firmware development (C / C++)
+- Real-time operating systems (Zephyr RTOS)
+- Microcontroller platforms (STM32)
+- FPGA design using Verilog/SystemVerilog
+- Embedded Linux systems
+- IoT and wireless sensor systems
+
+---
+
+## Projects
+
+• **STM32 Wi-Fi Embedded Sensor Web Server**  
+Embedded IoT system serving sensor data over WiFi using STM32.
+
+• **Zephyr RTOS Wireless Embedded System**  
+Real-time firmware using Zephyr RTOS for wireless device communication.
+
+• **Pipelined RISC-V Processor Design**  
+Five-stage RISC-V pipeline implemented in SystemVerilog.
+
+• **FPGA MicroBlaze Embedded System**  
+Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
+
+• **8-bit Vedic Multiplier (Full-Custom CMOS Design)**  
+Transistor-level multiplier design with layout and verification.
+
+---
+
+## Skills
+
+Embedded Systems  
+Firmware Development  
+STM32  
+Zephyr RTOS  
+Embedded Linux  
+FPGA  
+Verilog / SystemVerilog  
+Digital Design  
+Computer Architecture  
+
+---
+
+## Contact
+
+Email: feranmiarowoshola@gmail.com  
+
+LinkedIn:  
+https://www.linkedin.com/in/oluwaferanmi-arowoshola/
+
+Resume:  
