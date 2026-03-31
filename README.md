@@ -42,6 +42,9 @@ Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
 • [**8-bit Vedic Multiplier (Full-Custom CMOS Design)**](https://github.com/oluwaferanmi-arowoshola/vedic-multiplier-vlsi-design)  
 Transistor-level multiplier design with layout and verification.
 
+• [**Speech Translation Device**](https://github.com/oluwaferanmi-arowoshola/speech-translation-device)  
+Design and implementation of a near real-time, user triggered speech-to-speech translation system on Raspberry Pi
+
 ---
 
 ## Skills
