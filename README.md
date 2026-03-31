@@ -27,19 +27,19 @@ My interests include:
 
 ## Projects
 
-• **STM32 Wi-Fi Embedded Sensor Web Server**  
+• [**STM32 Wi-Fi Embedded Sensor Web Server**](https://github.com/oluwaferanmi-arowoshola/stm32-iot-sensor-webserver)
 Embedded IoT system serving sensor data over WiFi using STM32.
 
 • **Zephyr RTOS Wireless Embedded System**  
 Real-time firmware using Zephyr RTOS for wireless device communication.
 
-• **Pipelined RISC-V Processor Design**  
+• [**Pipelined RISC-V Processor Design**](https://github.com/oluwaferanmi-arowoshola/riscv-pipelined-processor/tree/main?search=1)  
 Five-stage RISC-V pipeline implemented in SystemVerilog.
 
-• **FPGA MicroBlaze Embedded System**  
+• [**FPGA MicroBlaze Embedded System**](https://github.com/oluwaferanmi-arowoshola/microblaze-embedded-system)  
 Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
 
-• **8-bit Vedic Multiplier (Full-Custom CMOS Design)**  
+• [**8-bit Vedic Multiplier (Full-Custom CMOS Design)**](https://github.com/oluwaferanmi-arowoshola/vedic-multiplier-vlsi-design)  
 Transistor-level multiplier design with layout and verification.
 
 ---
