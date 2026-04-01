@@ -63,9 +63,11 @@ Computer Architecture
 
 ## Contact
 
-Email: feranmiarowoshola@gmail.com  
+Email:
+feranmiarowoshola@gmail.com  
 
 LinkedIn:  
 https://www.linkedin.com/in/oluwaferanmi-arowoshola/
 
-Resume:  
+Resume:
+https://drive.google.com/file/d/1ENjj5WVsGZr3Jb1U_NdmJbB0ghFVdBYN/view?usp=drive_link
