@@ -65,7 +65,7 @@ Computer Architecture
 
 Email:
 
-feranmiarowoshola@gmail.com
+*feranmiarowoshola@gmail.com*
 
 LinkedIn:
 
