@@ -27,11 +27,14 @@ My interests include:
 
 ## Projects
 
+• [**Speech Translation Device**](https://github.com/oluwaferanmi-arowoshola/speech-translation-device)  
+Design and implementation of a near real-time, user triggered speech-to-speech translation system on Raspberry Pi
+
+• [**8-bit Vedic Multiplier (Full-Custom CMOS Design)**](https://github.com/oluwaferanmi-arowoshola/vedic-multiplier-vlsi-design)  
+Transistor-level multiplier design with layout and verification.
+
 • [**STM32 Wi-Fi Embedded Sensor Web Server**](https://github.com/oluwaferanmi-arowoshola/stm32-iot-sensor-webserver)
 Embedded IoT system serving sensor data over WiFi using STM32.
-
-• **Zephyr RTOS Wireless Embedded System**  
-Real-time firmware using Zephyr RTOS for wireless device communication.
 
 • [**Pipelined RISC-V Processor Design**](https://github.com/oluwaferanmi-arowoshola/riscv-pipelined-processor/tree/main?search=1)  
 Five-stage RISC-V pipeline implemented in SystemVerilog.
@@ -39,11 +42,8 @@ Five-stage RISC-V pipeline implemented in SystemVerilog.
 • [**FPGA MicroBlaze Embedded System**](https://github.com/oluwaferanmi-arowoshola/microblaze-embedded-system)  
 Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
 
-• [**8-bit Vedic Multiplier (Full-Custom CMOS Design)**](https://github.com/oluwaferanmi-arowoshola/vedic-multiplier-vlsi-design)  
-Transistor-level multiplier design with layout and verification.
-
-• [**Speech Translation Device**](https://github.com/oluwaferanmi-arowoshola/speech-translation-device)  
-Design and implementation of a near real-time, user triggered speech-to-speech translation system on Raspberry Pi
+• **Zephyr RTOS Wireless Embedded System**  
+Real-time firmware using Zephyr RTOS for wireless device communication.
 
 ---
 
