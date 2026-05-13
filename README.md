@@ -45,6 +45,9 @@ Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
 • **Zephyr RTOS Wireless Embedded System**  
 Real-time firmware using Zephyr RTOS for wireless device communication.
 
+• [**MOSFET IC Fabrication Process Lab Project**](https://github.com/oluwaferanmi-arowoshola/mosfet-ic-fabrication-lab)  
+MOSFET front-end fabrication lab covering oxidation, photolithography, oxide etching, phosphorus diffusion, drive-in, gate oxide formation, and process measurement.
+
 ---
 
 ## Skills
