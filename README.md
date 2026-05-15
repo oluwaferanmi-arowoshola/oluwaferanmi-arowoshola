@@ -42,7 +42,7 @@ Five-stage RISC-V pipeline implemented in SystemVerilog.
 • [**FPGA MicroBlaze Embedded System**](https://github.com/oluwaferanmi-arowoshola/microblaze-embedded-system)  
 Embedded platform built on Xilinx FPGA with MicroBlaze soft processor.
 
-• **Zephyr RTOS Wireless Embedded System**  
+• [**Zephyr RTOS Wireless Embedded System**](https://github.com/oluwaferanmi-arowoshola/zephyr-ble-temperature-node-nrf52840)  
 Real-time firmware using Zephyr RTOS for wireless device communication.
 
 • [**MOSFET IC Fabrication Process Lab Project**](https://github.com/oluwaferanmi-arowoshola/mosfet-ic-fabrication-lab)  
