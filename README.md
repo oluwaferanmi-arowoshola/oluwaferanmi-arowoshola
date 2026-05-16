@@ -4,7 +4,7 @@
 
 STM32 · Zephyr RTOS · Embedded Linux · FPGA · MicroBlaze · SystemVerilog · RISC-V · CMOS/VLSI · Hardware Validation
 
-M.S. Electrical & Computer Engineering — Expected May 2026  
+M.S. Electrical & Computer Engineering — May 2026  
 Relocating to Dallas–Fort Worth, TX
 
 ---
