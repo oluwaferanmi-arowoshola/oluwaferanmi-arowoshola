@@ -4,7 +4,7 @@
 
 STM32 · Zephyr RTOS · Embedded Linux · FPGA · MicroBlaze · SystemVerilog · RISC-V · CMOS/VLSI · Hardware Validation
 
-M.S. Electrical & Computer Engineering — May 2026  
+M.S. Electrical Engineering  
 Relocating to Dallas–Fort Worth, TX
 
 ---
@@ -120,7 +120,7 @@ STM32CubeIDE · Vivado · Vitis · Git · MATLAB · Tera Term · Wireshark · Li
 ## Education
 
 **Minnesota State University, Mankato**  
-M.S. Electrical & Computer Engineering — Expected May 2026  
+M.S. Electrical Engineering  
 B.S. Computer Engineering Technology  
 Undergraduate Certificate in Internet of Things
 
