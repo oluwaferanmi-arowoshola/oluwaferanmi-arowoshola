@@ -1,6 +1,6 @@
 # Oluwaferanmi Arowoshola
 
-**Electrical & Computer Engineering Graduate Student | Embedded Systems · Firmware · FPGA · VLSI · Hardware/Software Integration**
+**Electrical Engineering Graduate Student | Embedded Systems · Firmware · FPGA · VLSI · Hardware/Software Integration**
 
 STM32 · Zephyr RTOS · Embedded Linux · FPGA · MicroBlaze · SystemVerilog · RISC-V · CMOS/VLSI · Hardware Validation
 
@@ -11,7 +11,7 @@ Relocating to Dallas–Fort Worth, TX
 
 ## About Me
 
-I am an Electrical and Computer Engineering graduate student focused on embedded systems, firmware, FPGA-based hardware/software integration, digital design, and semiconductor/VLSI systems.
+I am an Electrical Engineering graduate student focused on embedded systems, firmware, FPGA-based hardware/software integration, digital design, and semiconductor/VLSI systems.
 
 My project work includes STM32 firmware, Zephyr RTOS experimentation, FPGA soft-core processor integration, a 5-stage pipelined RISC-V processor in SystemVerilog, full-custom CMOS VLSI design, and MOSFET fabrication process lab work.
 
